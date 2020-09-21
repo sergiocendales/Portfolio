@@ -4,6 +4,4 @@ Bono.xlsm: Un algoritmo en Visual Basic que le permite al usuario calcular el pr
 
 Matching.Texts: En el RScript plan.R está un algoritmo  que empareja un elemento del conjunto  A con el elemento de otro conjunto B  que esté más correlacionado, teniendo en cuenta que cada elemento del grupo B tiene una restricción de cantidad máxima de elementos que le pueden ser asignados (cada elemento de ambos conjuntos es un párrafo de texto).
 
-Policy calendar: Calendario diario con links y breves comentarios de medidas de política económica tomadas en 2020. 
-
 Presentación distribuciones de muestreo de estadísticos: Una presentación que realicé como guía para realizar una tutoría sobre este tema a un estudiante que me solicitó ayuda. 
